@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("idea share gitee test");
         System.out.println("idea push gitee test");
         System.out.println("idea pull gitee test");
+        System.out.println("idea push gitlab commit");
         System.out.println("idea pull gitlab commit");
     }
 }
