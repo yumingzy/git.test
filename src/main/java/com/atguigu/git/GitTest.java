@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("idea push test");
         System.out.println("idea pull test");
+        System.out.println("idea share gitee test");
     }
 }
