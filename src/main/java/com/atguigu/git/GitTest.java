@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("idea pull gitlab commit");
         System.out.println("idea push gitlab commit");
         System.out.println("idea pull gitlab commit2");
+        System.out.println("idea push gitlab commit3 hotfix");
     }
 }
